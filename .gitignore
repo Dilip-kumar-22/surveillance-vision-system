@@ -1,0 +1,5 @@
+```text
+__pycache__/
+*.py[cod]
+.DS_Store
+Times.csv
